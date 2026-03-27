@@ -1,0 +1,38 @@
+aid: varnish
+name: Varnish Cache
+description: >-
+  Varnish Cache is a high-performance HTTP accelerator and reverse proxy designed for content-heavy dynamic websites and APIs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Proxy
+  - Caching Proxy
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/varnish/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: varnish:varnish
+    name: Varnish Cache
+    description: >-
+      Varnish Cache is a high-performance HTTP accelerator and reverse proxy designed for content-heavy dynamic websites and APIs.
+    humanURL: https://varnish-cache.org/
+    tags:
+      - Proxy
+      - Caching Proxy
+    properties:
+      - type: Documentation
+        url: https://varnish-cache.org/docs/
+      - type: Getting Started
+        url: https://varnish-cache.org/docs/trunk/tutorial/
+common:
+  - type: Website
+    url: https://varnish-cache.org/
+  - type: Documentation
+    url: https://varnish-cache.org/docs/
+  - type: GitHub Organization
+    url: https://github.com/varnishcache
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
