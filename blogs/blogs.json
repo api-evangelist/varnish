@@ -1,0 +1,13 @@
+{
+  "repo": "varnish",
+  "feeds": [
+    {
+      "source": "https://info.varnish-software.com/blog",
+      "feed_url": "https://info.varnish-software.com/blog/rss.xml",
+      "saved": 10,
+      "title": "Varnish Software Blog"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:37:58Z"
+}
