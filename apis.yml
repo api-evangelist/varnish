@@ -82,16 +82,16 @@ apis:
     properties:
       - type: Documentation
         url: https://varnish-cache.org/docs/trunk/reference/vmod.html
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/varnishcache/varnish-cache
 common:
   - type: Website
     url: https://varnish-cache.org/
   - type: Documentation
     url: https://varnish-cache.org/docs/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/varnishcache
-  - type: GitHub Repository
+  - type: GitHubRepository
     url: https://github.com/varnishcache/varnish-cache
   - type: ReleaseNotes
     url: https://varnish-cache.org/docs/trunk/whatsNew/
