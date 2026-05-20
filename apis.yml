@@ -85,6 +85,8 @@ apis:
       - type: GitHubRepository
         url: https://github.com/varnishcache/varnish-cache
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/varnish-software
   - type: Website
     url: https://varnish-cache.org/
   - type: Documentation
