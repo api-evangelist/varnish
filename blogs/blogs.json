@@ -2,13 +2,17 @@
   "repo": "varnish",
   "feeds": [
     {
-      "source": "https://info.varnish-software.com/blog",
+      "source": "https://info.varnish-software.com/blog/atom.xml",
       "feed_url": "https://info.varnish-software.com/blog/atom.xml",
-      "title": "Varnish Software Blog",
+      "title": "",
       "saved": 0,
-      "last_error": "http_404"
+      "method": "feed"
+    },
+    {
+      "source": "https://varnish-cache.org/docs/trunk/whatsNew/",
+      "error": "URLError"
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 17,
+  "fetched": "2026-06-01T23:35:02Z"
 }
