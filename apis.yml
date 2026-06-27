@@ -99,7 +99,7 @@ common:
     url: https://varnish-cache.org/docs/trunk/whatsNew/
   - type: Blog
     url: https://info.varnish-software.com/blog
-  - type: Forum
+  - type: Forums
     url: https://discourse.varnish-cache.org/
   - type: StackOverflow
     url: https://stackoverflow.com/questions/tagged/varnish
