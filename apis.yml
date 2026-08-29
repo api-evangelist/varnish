@@ -9,6 +9,17 @@ description: >-
   and managed through a CLI interface (varnishadm) and a set of command-line tools
   for logging, statistics, and monitoring.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
@@ -105,6 +116,10 @@ apis:
       - type: GitHubRepository
         url: https://github.com/varnishcache/varnish-cache
 common:
+  - type: IssueTracker
+    url: https://github.com/varnishcache/varnish-cache/issues
+  - type: ContributionGuide
+    url: https://github.com/varnishcache/varnish-cache/blob/master/CONTRIBUTING
   - type: DomainSecurity
     url: security/varnish-domain-security.yml
   - type: LinkedIn
