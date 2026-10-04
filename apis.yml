@@ -39,7 +39,7 @@ tags:
   - Caching Proxy
   - Content Delivery
   - HTTP Accelerator
-  - Open-Source
+  - Open Source
   - Proxy
   - Reverse Proxy
 tags_raw:
@@ -50,6 +50,7 @@ tags_raw:
   - Open Source
   - Proxy
   - Reverse Proxy
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/varnish/refs/heads/main/apis.yml
 created: '2026-03-27'
